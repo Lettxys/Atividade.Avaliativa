@@ -1,5 +1,6 @@
 <h1>Atividade Avaliativa - Banco de Dados</h1>
-<p> Repositório com o diagrama lógico e conceitual.</p>
+<p> Repositório com o diagrama lógico e conceitual.
+Dupla: Leticia e Manuela</p>
 
 <h3>○ Diagrama Lógico</h3>
 <div align="center">
