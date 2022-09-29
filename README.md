@@ -2,6 +2,11 @@
 <p> Repositório com o diagrama lógico e conceitual.
 Dupla: Leticia e Manuela</p>
 
+<h3>○ Diagrama Conceitual</h3>
+<div align="center">
+ <img src="https://github.com/Lettxys/Atividade.Avaliativa/blob/main/Conceitual_1.png?raw=true"/>
+</div>
+
 <h3>○ Diagrama Lógico</h3>
 <div align="center">
  <img src="https://github.com/Lettxys/Atividade.Avaliativa/blob/main/DiagramaLogico.png?raw=true"/>
